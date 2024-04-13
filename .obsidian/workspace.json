@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6c3debe154d2ff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EC2/EC2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d228476b9aedb1e7",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IAM/IAM (Identity and Access Management).md",
+                "file": "EC2/EC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IAM/IAM (Identity and Access Management).md",
+                "file": "EC2/EC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IAM/IAM (Identity and Access Management).md"
+                "file": "EC2/EC2.md"
               }
             }
           }
@@ -146,21 +160,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "667e5cec61a35937",
+  "active": "e6c3debe154d2ff0",
   "lastOpenFiles": [
-    "IAM/Pasted image 20240413144334.png",
-    "IAM/Pasted image 20240413144237.png",
-    "IAM (Identity and Access Management).md",
-    "IAM/Pasted image 20240413143354.png",
-    "IAM/Pasted image 20240413143344.png",
-    "IAM/Pasted image 20240413143213.png",
-    "IAM/Pasted image 20240413143135.png",
-    "IAM/Pasted image 20240413143030.png",
-    "IAM/Pasted image 20240413142710.png",
-    "IAM/Pasted image 20240413140259.png",
-    "IAM/Pasted image 20240413140255.png",
-    "IAM/Pasted image 20240413140208.png",
+    "IAM/Images/Pasted image 20240413140255.png",
+    "IAM/Images/Pasted image 20240413140208.png",
+    "IAM/Images/Pasted image 20240413140107.png",
+    "IAM/Images/Pasted image 20240413134137.png",
+    "IAM/Images/Pasted image 20240413134115.png",
+    "IAM/Images/Pasted image 20240413134112.png",
+    "IAM/Images/Pasted image 20240413132608.png",
+    "IAM/Images/Pasted image 20240413131241.png",
+    "IAM/Images/Pasted image 20240413130613.png",
+    "IAM/Images/Pasted image 20240413130242.png",
+    "IAM/Images/Pasted image 20240413130126.png",
+    "IAM/Images",
+    "IAM/New folder",
+    "EC2/Images",
+    "EC2/New folder",
     "IAM/IAM (Identity and Access Management).md",
+    "EC2/EC2.md",
+    "EC2",
+    "IAM (Identity and Access Management).md",
     "IAM",
     "New folder",
     "AWS Cloud History.md",
