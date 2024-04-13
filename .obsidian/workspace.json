@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "397c282d678613be",
+        "id": "dd28fd788415d9eb",
         "type": "tabs",
         "children": [
           {
-            "id": "51d5305c8d45fe7e",
+            "id": "667e5cec61a35937",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IAM/IAM (Identity and Access Management).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IAM/IAM (Identity and Access Management).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IAM/IAM (Identity and Access Management).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IAM/IAM (Identity and Access Management).md"
+              }
             }
           }
         ]
@@ -138,6 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51d5305c8d45fe7e",
-  "lastOpenFiles": []
+  "active": "667e5cec61a35937",
+  "lastOpenFiles": [
+    "IAM/Pasted image 20240413144334.png",
+    "IAM/Pasted image 20240413144237.png",
+    "IAM (Identity and Access Management).md",
+    "IAM/Pasted image 20240413143354.png",
+    "IAM/Pasted image 20240413143344.png",
+    "IAM/Pasted image 20240413143213.png",
+    "IAM/Pasted image 20240413143135.png",
+    "IAM/Pasted image 20240413143030.png",
+    "IAM/Pasted image 20240413142710.png",
+    "IAM/Pasted image 20240413140259.png",
+    "IAM/Pasted image 20240413140255.png",
+    "IAM/Pasted image 20240413140208.png",
+    "IAM/IAM (Identity and Access Management).md",
+    "IAM",
+    "New folder",
+    "AWS Cloud History.md",
+    "Untitled"
+  ]
 }
