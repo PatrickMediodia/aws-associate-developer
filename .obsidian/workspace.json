@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "dd28fd788415d9eb",
+        "id": "9f413906e4890ab6",
         "type": "tabs",
         "children": [
           {
-            "id": "667e5cec61a35937",
+            "id": "9f73ad2029ee7bff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Route 53/Route 53.md",
+                "file": "CLI,SDK,IAM Roles & Policies/CLI,SDK,IAM Roles & Policies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81275a9413814507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "S3/S3 Security.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Route 53/Route 53.md",
+                "file": "S3/S3 Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Route 53/Route 53.md",
+                "file": "S3/S3 Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Route 53/Route 53.md"
+                "file": "S3/S3 Security.md"
               }
             }
           }
@@ -146,32 +159,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "667e5cec61a35937",
+  "active": "81275a9413814507",
   "lastOpenFiles": [
+    "Pasted image 20240423191317.png",
+    "Pasted image 20240423190620.png",
+    "Pasted image 20240423190524.png",
+    "Pasted image 20240423190451.png",
+    "Pasted image 20240423185843.png",
+    "Images/Pasted image 20240423185538.png",
+    "Images/Pasted image 20240423185435.png",
+    "Images/Pasted image 20240423185217.png",
+    "Images/Pasted image 20240423184828.png",
+    "Images/Pasted image 20240423182550.png",
+    "Images/Pasted image 20240423182336.png",
+    "Images",
+    "S3/S3 Lifecycle Rules.md",
+    "S3/S3 Security.md",
+    "S3/S3 Select & Glacier Select.md",
+    "S3/S3 Performance.md",
+    "S3/S3 Events.md",
+    "CLI,SDK,IAM Roles & Policies/CLI,SDK,IAM Roles & Policies.md",
+    "S3",
+    "CLI,SDK,IAM Roles & Policies",
+    "Untitled.canvas",
     "IAM/IAM (Identity and Access Management).md",
     "Route 53/Route 53.md",
-    "S3",
-    "S3.md",
-    "Route 53",
+    "2024-04-22.md",
+    "AWS Cloud History.md",
     "EC2/EC2.md",
-    "IAM/Images/Pasted image 20240413140255.png",
-    "IAM/Images/Pasted image 20240413140208.png",
-    "IAM/Images/Pasted image 20240413140107.png",
-    "IAM/Images/Pasted image 20240413134137.png",
-    "IAM/Images/Pasted image 20240413134115.png",
-    "IAM/Images/Pasted image 20240413134112.png",
-    "IAM/Images/Pasted image 20240413132608.png",
-    "IAM/Images/Pasted image 20240413131241.png",
-    "IAM/Images/Pasted image 20240413130613.png",
-    "IAM/Images/Pasted image 20240413130242.png",
+    "Route 53",
     "IAM/Images",
     "IAM/New folder",
     "EC2/Images",
     "EC2/New folder",
     "EC2",
     "IAM (Identity and Access Management).md",
-    "IAM",
-    "New folder",
-    "AWS Cloud History.md"
+    "IAM"
   ]
 }
