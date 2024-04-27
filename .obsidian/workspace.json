@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9f413906e4890ab6",
+        "id": "92285d6e5a0ee449",
         "type": "tabs",
         "children": [
           {
-            "id": "9f73ad2029ee7bff",
+            "id": "8bdf973162f4a27d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLI,SDK,IAM Roles & Policies/CLI,SDK,IAM Roles & Policies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81275a9413814507",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "S3/S3 Security.md",
+                "file": "CloudFront/Advanced Concepts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S3/S3 Security.md",
+                "file": "CloudFront/Advanced Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S3/S3 Security.md",
+                "file": "CloudFront/Advanced Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S3/S3 Security.md"
+                "file": "CloudFront/Advanced Concepts.md"
               }
             }
           }
@@ -159,32 +146,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81275a9413814507",
+  "active": "8bdf973162f4a27d",
   "lastOpenFiles": [
-    "Pasted image 20240423191317.png",
-    "Pasted image 20240423190620.png",
-    "Pasted image 20240423190524.png",
-    "Pasted image 20240423190451.png",
-    "Pasted image 20240423185843.png",
-    "Images/Pasted image 20240423185538.png",
-    "Images/Pasted image 20240423185435.png",
-    "Images/Pasted image 20240423185217.png",
-    "Images/Pasted image 20240423184828.png",
-    "Images/Pasted image 20240423182550.png",
-    "Images/Pasted image 20240423182336.png",
+    "Pasted image 20240427150450.png",
+    "Pasted image 20240427150322.png",
+    "Pasted image 20240427145957.png",
+    "Pasted image 20240427145508.png",
+    "Pasted image 20240427145407.png",
+    "Pasted image 20240427145344.png",
+    "Pasted image 20240427145144.png",
+    "CloudFront/Signed URL or Signed Cookies.md",
+    "CloudFront/Advanced Concepts.md",
+    "Pasted image 20240427144342.png",
+    "CloudFront/ALB or EC2 as Origins.md",
+    "CloudFront/Cache Behaviors.md",
+    "CloudFront/Cache Invalidations.md",
+    "CloudFront/Caching.md",
+    "CloudFront/CloudFront.md",
+    "CloudFront/Geo Restriction.md",
+    "Pasted image 20240427143530.png",
+    "Pasted image 20240427143202.png",
+    "Pasted image 20240427142916.png",
+    "CLI,SDK,IAM Roles & Policies/CLI,SDK,IAM Roles & Policies.md",
+    "S3/S3 Security.md",
+    "CloudFront",
+    "2024-04-22.md",
     "Images",
     "S3/S3 Lifecycle Rules.md",
-    "S3/S3 Security.md",
     "S3/S3 Select & Glacier Select.md",
     "S3/S3 Performance.md",
     "S3/S3 Events.md",
-    "CLI,SDK,IAM Roles & Policies/CLI,SDK,IAM Roles & Policies.md",
     "S3",
     "CLI,SDK,IAM Roles & Policies",
     "Untitled.canvas",
     "IAM/IAM (Identity and Access Management).md",
     "Route 53/Route 53.md",
-    "2024-04-22.md",
     "AWS Cloud History.md",
     "EC2/EC2.md",
     "Route 53",
@@ -193,7 +189,6 @@
     "EC2/Images",
     "EC2/New folder",
     "EC2",
-    "IAM (Identity and Access Management).md",
-    "IAM"
+    "IAM (Identity and Access Management).md"
   ]
 }

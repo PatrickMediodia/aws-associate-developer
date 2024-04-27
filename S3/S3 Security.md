@@ -56,3 +56,34 @@ You have a default KMS key for the S3 service
 ![[Pasted image 20240423191317.png]]
 - you can force the user to upload objects to the bucket with encryption using bucket policies
 - this is because bucket policies are evaluated before default encryption
+
+**Cross-Origin Resource Sharing (CORS)**
+Origin = scheme (protocol) + host (domain) + port
+![[Pasted image 20240424182408.png]]
+![[Pasted image 20240424182533.png]]
+- **CORS Headers**
+	- Access-Control-Allow-Credentials --> true/false
+	- Access-Control-Allow-Methods --> GET, PUT, POST, DELETE, etc.
+	- Access-Control-Allow-Origin --> the actual origin
+	- Acess-Control-Max-Age --> time
+
+**S3 Questions Related to CORS**
+![[Pasted image 20240424182804.png]]
+![[Pasted image 20240424183747.png]]
+
+**S3 - MFA Delete**
+![[Pasted image 20240424184000.png]]
+- when enabled, the user needs to enter a MFA code for destructive actions such as
+	- permanently deleting an object version
+	- suspend versioning on the bucket
+- currently you can only set this through the AWS CLI
+
+**S3 Access Logs**
+- for audit purposes, you may want to log all access to s3 buckets
+- any request made to the S3 bucket from any account will we logged into another S3 bucket
+- target logging bucket must be in the same AWS region
+![[Pasted image 20240424185150.png]]![[Pasted image 20240424185217.png]]
+
+**Pre-Signed URLs**
+![[Pasted image 20240424190919.png]]
+- pre-signed
