@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "92285d6e5a0ee449",
+        "id": "a31a3c01657c47c0",
         "type": "tabs",
         "children": [
           {
-            "id": "8bdf973162f4a27d",
+            "id": "8171b7368dc3bf17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CloudFront/Advanced Concepts.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,27 +142,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bdf973162f4a27d",
+  "active": "5121b7b5d84f4d51",
   "lastOpenFiles": [
-    "Pasted image 20240427150450.png",
-    "Pasted image 20240427150322.png",
-    "Pasted image 20240427145957.png",
-    "Pasted image 20240427145508.png",
-    "Pasted image 20240427145407.png",
-    "Pasted image 20240427145344.png",
-    "Pasted image 20240427145144.png",
+    "Images/Pasted image 20240427143530.png",
+    "Images/Pasted image 20240427143202.png",
+    "Images/Pasted image 20240427142916.png",
+    "Images/Pasted image 20240427142545.png",
+    "Images/Pasted image 20240427142411.png",
+    "Images/Pasted image 20240427141314.png",
+    "Images/Pasted image 20240427140708.png",
+    "Images/Pasted image 20240427140554.png",
+    "Images/Pasted image 20240427140347.png",
+    "Images/Pasted image 20240427134235.png",
+    "Images/Pasted image 20240427134140.png",
+    "Untitled",
     "CloudFront/Signed URL or Signed Cookies.md",
     "CloudFront/Advanced Concepts.md",
-    "Pasted image 20240427144342.png",
     "CloudFront/ALB or EC2 as Origins.md",
     "CloudFront/Cache Behaviors.md",
     "CloudFront/Cache Invalidations.md",
     "CloudFront/Caching.md",
     "CloudFront/CloudFront.md",
     "CloudFront/Geo Restriction.md",
-    "Pasted image 20240427143530.png",
-    "Pasted image 20240427143202.png",
-    "Pasted image 20240427142916.png",
     "CLI,SDK,IAM Roles & Policies/CLI,SDK,IAM Roles & Policies.md",
     "S3/S3 Security.md",
     "CloudFront",
@@ -188,7 +185,6 @@
     "IAM/New folder",
     "EC2/Images",
     "EC2/New folder",
-    "EC2",
     "IAM (Identity and Access Management).md"
   ]
 }
