@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5ab2ae6f83ae69ed",
+        "id": "50e748ec9e419547",
         "type": "tabs",
         "children": [
           {
-            "id": "964567da5020e320",
+            "id": "16b83d37b0d954d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Elastic Beanstalk/Elastic Beanstalk.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d228476b9aedb1e7",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Elastic Beanstalk/Elastic Beanstalk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Elastic Beanstalk/Elastic Beanstalk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Elastic Beanstalk/Elastic Beanstalk.md"
+              }
             }
           }
         ]
@@ -139,19 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "964567da5020e320",
+  "active": "16b83d37b0d954d2",
   "lastOpenFiles": [
-    "Images/Pasted image 20240428112433.png",
-    "Images/Pasted image 20240428112259.png",
-    "Images/Pasted image 20240428112025.png",
-    "Images/Pasted image 20240428111803.png",
-    "Images/Pasted image 20240428111620.png",
-    "Images/Pasted image 20240428111218.png",
-    "Images/Pasted image 20240428110831.png",
-    "Images/Pasted image 20240428110626.png",
-    "Images/Pasted image 20240428110022.png",
-    "Images/Pasted image 20240428104529.png",
-    "Images/Pasted image 20240427190325.png",
+    "Elastic Beanstalk/RDS.md",
+    "Pasted image 20240428161157.png",
+    "Pasted image 20240428161009.png",
+    "Pasted image 20240428160811.png",
+    "Pasted image 20240428160804.png",
+    "Pasted image 20240428160650.png",
+    "Elastic Beanstalk/Migration - Load Balancer.md",
+    "Pasted image 20240428160436.png",
+    "Pasted image 20240428160434.png",
+    "Pasted image 20240428160423.png",
+    "Elastic Beanstalk/Cloning.md",
+    "Pasted image 20240428154416.png",
+    "Pasted image 20240428154359.png",
+    "Elastic Beanstalk/Under the Hood (CloudFormation).md",
+    "Elastic Beanstalk/Extensions.md",
+    "Elastic Beanstalk/Lifecycle Policies.md",
+    "Elastic Beanstalk/EB CLI.md",
+    "Elastic Beanstalk/Deployment Options.md",
+    "Elastic Beanstalk/Elastic Beanstalk.md",
+    "Untitled.md",
+    "Elastic Beanstalk",
     "ECS, EKS, and Fargate (Docker)/Copilot.md",
     "ECS, EKS, and Fargate (Docker)/ECS Placements.md",
     "ECS, EKS, and Fargate (Docker)/ECS.md",
@@ -168,25 +185,14 @@
     "CloudFront/Caching.md",
     "CloudFront/CloudFront.md",
     "CloudFront/Geo Restriction.md",
-    "CLI,SDK,IAM Roles & Policies/CLI,SDK,IAM Roles & Policies.md",
-    "S3/S3 Security.md",
     "CloudFront",
-    "2024-04-22.md",
     "Images",
-    "S3/S3 Lifecycle Rules.md",
-    "S3/S3 Select & Glacier Select.md",
-    "S3/S3 Performance.md",
-    "S3/S3 Events.md",
     "S3",
     "CLI,SDK,IAM Roles & Policies",
     "Untitled.canvas",
-    "IAM/IAM (Identity and Access Management).md",
-    "Route 53/Route 53.md",
-    "AWS Cloud History.md",
     "Route 53",
     "IAM/Images",
     "IAM/New folder",
-    "EC2/Images",
-    "EC2/New folder"
+    "EC2/Images"
   ]
 }
