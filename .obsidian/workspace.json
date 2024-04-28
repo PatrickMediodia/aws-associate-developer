@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a31a3c01657c47c0",
+        "id": "5ab2ae6f83ae69ed",
         "type": "tabs",
         "children": [
           {
-            "id": "8171b7368dc3bf17",
+            "id": "964567da5020e320",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d228476b9aedb1e7",
@@ -81,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CloudFront/Advanced Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CloudFront/Advanced Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CloudFront/Advanced Concepts.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,22 +139,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5121b7b5d84f4d51",
+  "active": "964567da5020e320",
   "lastOpenFiles": [
-    "Images/Pasted image 20240427143530.png",
-    "Images/Pasted image 20240427143202.png",
-    "Images/Pasted image 20240427142916.png",
-    "Images/Pasted image 20240427142545.png",
-    "Images/Pasted image 20240427142411.png",
-    "Images/Pasted image 20240427141314.png",
-    "Images/Pasted image 20240427140708.png",
-    "Images/Pasted image 20240427140554.png",
-    "Images/Pasted image 20240427140347.png",
-    "Images/Pasted image 20240427134235.png",
-    "Images/Pasted image 20240427134140.png",
-    "Untitled",
-    "CloudFront/Signed URL or Signed Cookies.md",
+    "Images/Pasted image 20240428112433.png",
+    "Images/Pasted image 20240428112259.png",
+    "Images/Pasted image 20240428112025.png",
+    "Images/Pasted image 20240428111803.png",
+    "Images/Pasted image 20240428111620.png",
+    "Images/Pasted image 20240428111218.png",
+    "Images/Pasted image 20240428110831.png",
+    "Images/Pasted image 20240428110626.png",
+    "Images/Pasted image 20240428110022.png",
+    "Images/Pasted image 20240428104529.png",
+    "Images/Pasted image 20240427190325.png",
+    "ECS, EKS, and Fargate (Docker)/Copilot.md",
+    "ECS, EKS, and Fargate (Docker)/ECS Placements.md",
+    "ECS, EKS, and Fargate (Docker)/ECS.md",
+    "ECS, EKS, and Fargate (Docker)/ECR.md",
+    "ECS, EKS, and Fargate (Docker)/EKS.md",
+    "ECS, EKS, and Fargate (Docker)/ECS Task Definitions.md",
+    "ECS, EKS, and Fargate (Docker)/Docker.md",
     "CloudFront/Advanced Concepts.md",
+    "ECS, EKS, and Fargate (Docker)",
+    "CloudFront/Signed URL or Signed Cookies.md",
     "CloudFront/ALB or EC2 as Origins.md",
     "CloudFront/Cache Behaviors.md",
     "CloudFront/Cache Invalidations.md",
@@ -179,12 +183,10 @@
     "IAM/IAM (Identity and Access Management).md",
     "Route 53/Route 53.md",
     "AWS Cloud History.md",
-    "EC2/EC2.md",
     "Route 53",
     "IAM/Images",
     "IAM/New folder",
     "EC2/Images",
-    "EC2/New folder",
-    "IAM (Identity and Access Management).md"
+    "EC2/New folder"
   ]
 }
