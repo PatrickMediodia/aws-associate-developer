@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6a7eca79fe377b49",
+        "id": "a3c0e0bff0be4cdd",
         "type": "tabs",
         "children": [
           {
-            "id": "840fefd0b68269ce",
+            "id": "96e86602638e0020",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "S3/S3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acd244b96d0a6026",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S3/S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S3/S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "S3/S3.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,19 +138,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5121b7b5d84f4d51",
+  "active": "96e86602638e0020",
   "lastOpenFiles": [
-    "Images/Pasted image 20240421153233.png",
-    "Images/Pasted image 20240421153213.png",
-    "Images/Pasted image 20240421153133.png",
-    "Images/Pasted image 20240421153116.png",
-    "Images/Pasted image 20240421152044.png",
-    "Images/Pasted image 20240421151930.png",
-    "Images/Pasted image 20240421145720.png",
-    "Images/Pasted image 20240421145641.png",
-    "Images/Pasted image 20240421145537.png",
-    "Images/Pasted image 20240421145439.png",
-    "Images/Pasted image 20240421122844.png",
+    "Images/Pasted image 20240501110040.png",
+    "Images/Pasted image 20240501105711.png",
+    "Images/Pasted image 20240501105533.png",
+    "Images/Pasted image 20240501105413.png",
+    "Images/Pasted image 20240501105010.png",
+    "Images/Pasted image 20240501104746.png",
+    "Images/Pasted image 20240501104532.png",
+    "Images/Pasted image 20240501104438.png",
+    "Images/Pasted image 20240501104424.png",
+    "Images/Pasted image 20240501104416.png",
+    "Images/Pasted image 20240501104229.png",
+    "CloudFormation/Rollbacks.md",
+    "CloudFormation/Intrinsic Functions.md",
+    "CloudFormation/Untitled",
+    "CloudFormation/Conditions.md",
+    "CloudFormation/Outputs and Exports.md",
+    "CloudFormation/Mappings.md",
+    "CloudFormation/Parameters.md",
+    "CloudFront/Parameters.md",
+    "S3/S3.md",
     "S3/S3 Select & Glacier Select.md",
     "S3/S3 Security.md",
     "S3/S3 Performance.md",
@@ -189,21 +179,12 @@
     "ECS, EKS, and Fargate (Docker)/EKS.md",
     "ECS, EKS, and Fargate (Docker)/ECS.md",
     "ECS, EKS, and Fargate (Docker)/ECS Task Definitions.md",
-    "ECS, EKS, and Fargate (Docker)/ECS Placements.md",
-    "ECS, EKS, and Fargate (Docker)/ECR.md",
-    "ECS, EKS, and Fargate (Docker)/Docker.md",
-    "ECS, EKS, and Fargate (Docker)/Copilot.md",
     "ECS, EKS, and Fargate (Docker)",
-    "CloudFront/Signed URL or Signed Cookies.md",
-    "CloudFront/Geo Restriction.md",
-    "CloudFront/CloudFront.md",
-    "CloudFront/Caching.md",
     "CloudFront",
     "CloudFormation",
     "CLI,SDK,IAM Roles & Policies",
     "S3",
     "S3",
-    "Route 53",
-    "IAM/Images"
+    "Route 53"
   ]
 }

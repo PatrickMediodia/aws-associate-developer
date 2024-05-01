@@ -21,3 +21,19 @@
 - parameters can be referenced anywhere in the template
 - in YAML, `Fn::Ref` can be used to reference parameters
 - `!Ref {parameter name}` is a shorthand in order to access parameters
+- can also reference other elements within the template
+
+![[Pasted image 20240501093143.png]]
+- NOTE: `!Ref`s are not only used for parameters, they can be used for other resourcers
+	- ex. reference a security group on an EC2 instance
+- in this example the `SSHSecurityGroup` is the reference to a resource
+
+![[Pasted image 20240501093330.png]]
+- in this example, the ec2 instance resource called `MyInstance` is being referenced in the`MyEIP` which is an Elastic IP Resource
+
+![[Pasted image 20240501093510.png]]
+**PseudoParameters**
+- can be used at any time and are enabled by default
+- this means that the CloudFormation template knows its AccountId and Region and you just have to reference it
+- most used are AccountId and Region so the user does not have to tell the CloudFormation templates that
+
