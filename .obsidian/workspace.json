@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a3c0e0bff0be4cdd",
+        "id": "b450b006dbfccb68",
         "type": "tabs",
         "children": [
           {
-            "id": "96e86602638e0020",
+            "id": "07f617e8e10a3280",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SQS, SNS, and Kinesis/SQS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SQS, SNS, and Kinesis/SQS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SQS, SNS, and Kinesis/SQS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SQS, SNS, and Kinesis/SQS.md"
+              }
             }
           }
         ]
@@ -138,53 +146,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96e86602638e0020",
+  "active": "5121b7b5d84f4d51",
   "lastOpenFiles": [
-    "Images/Pasted image 20240501110040.png",
-    "Images/Pasted image 20240501105711.png",
-    "Images/Pasted image 20240501105533.png",
-    "Images/Pasted image 20240501105413.png",
-    "Images/Pasted image 20240501105010.png",
-    "Images/Pasted image 20240501104746.png",
-    "Images/Pasted image 20240501104532.png",
-    "Images/Pasted image 20240501104438.png",
-    "Images/Pasted image 20240501104424.png",
-    "Images/Pasted image 20240501104416.png",
-    "Images/Pasted image 20240501104229.png",
+    "Images/Pasted image 20240502190531.png",
+    "Images/Pasted image 20240502190333.png",
+    "Images/Pasted image 20240502190215.png",
+    "Images/Pasted image 20240502190024.png",
+    "Images/Pasted image 20240502185831.png",
+    "Images/Pasted image 20240502185830.png",
+    "Images/Pasted image 20240502185629.png",
+    "Images/Pasted image 20240502185628.png",
+    "Images/Pasted image 20240502185312.png",
+    "Images/Pasted image 20240502184818.png",
+    "Images/Pasted image 20240502184803.png",
+    "SQS, SNS, and Kinesis/SQS.md",
+    "SQS, SNS, and Kinesis",
+    "CloudFormation/Parameters.md",
+    "S3/S3.md",
     "CloudFormation/Rollbacks.md",
-    "CloudFormation/Intrinsic Functions.md",
-    "CloudFormation/Untitled",
-    "CloudFormation/Conditions.md",
     "CloudFormation/Outputs and Exports.md",
     "CloudFormation/Mappings.md",
-    "CloudFormation/Parameters.md",
-    "CloudFront/Parameters.md",
-    "S3/S3.md",
-    "S3/S3 Select & Glacier Select.md",
-    "S3/S3 Security.md",
-    "S3/S3 Performance.md",
-    "S3/S3 Lifecycle Rules.md",
-    "S3/S3 Events.md",
-    "Images",
-    "Elastic Beanstalk/Under the Hood (CloudFormation).md",
-    "Elastic Beanstalk/RDS.md",
-    "Elastic Beanstalk/Migration - Load Balancer.md",
-    "Elastic Beanstalk/Lifecycle Policies.md",
-    "Elastic Beanstalk/Extensions.md",
+    "CloudFormation/Intrinsic Functions.md",
+    "CloudFormation/Conditions.md",
+    "CloudFormation/CloudFormation.md",
     "Elastic Beanstalk/Elastic Beanstalk.md",
-    "Elastic Beanstalk/EB CLI.md",
-    "Elastic Beanstalk/Deployment Options.md",
-    "Elastic Beanstalk/Cloning.md",
+    "Elastic Beanstalk/Extensions.md",
+    "Elastic Beanstalk/Lifecycle Policies.md",
+    "Elastic Beanstalk/Migration - Load Balancer.md",
+    "Elastic Beanstalk/Under the Hood (CloudFormation).md",
+    "Route 53/Route 53.md",
+    "S3/S3 Events.md",
+    "S3/S3 Lifecycle Rules.md",
+    "S3/S3 Performance.md",
+    "S3/S3 Security.md",
+    "S3/S3 Select & Glacier Select.md",
+    "AWS Cloud History.md",
+    "CloudFormation/Resources.md",
+    "CloudFormation/YAML.md",
+    "Untitled.md",
+    "CloudFormation",
+    "Elastic Beanstalk/RDS.md",
     "Elastic Beanstalk",
-    "ECS, EKS, and Fargate (Docker)/EKS.md",
-    "ECS, EKS, and Fargate (Docker)/ECS.md",
-    "ECS, EKS, and Fargate (Docker)/ECS Task Definitions.md",
     "ECS, EKS, and Fargate (Docker)",
     "CloudFront",
-    "CloudFormation",
+    "Images",
+    "S3",
     "CLI,SDK,IAM Roles & Policies",
-    "S3",
-    "S3",
-    "Route 53"
+    "Untitled.canvas",
+    "Route 53",
+    "IAM/Images"
   ]
 }
