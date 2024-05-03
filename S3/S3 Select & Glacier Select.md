@@ -3,7 +3,6 @@
 	- less queried data, less cpu cost
 - will do the filtering in the server side
 
-
 - Object Meta-Data
 	- you can add meta-data to the S3 objects that you upload
 	- user defined meta-data must have the "x-amz_meta-" tag before them

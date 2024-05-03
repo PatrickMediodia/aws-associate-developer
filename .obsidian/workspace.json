@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b450b006dbfccb68",
+        "id": "ee6388a1b0ef547c",
         "type": "tabs",
         "children": [
           {
-            "id": "07f617e8e10a3280",
+            "id": "7adcc6382461e782",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQS, SNS, and Kinesis/SQS.md",
+                "file": "SQS, SNS, and Kinesis/SQS Long Polling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQS, SNS, and Kinesis/SQS.md",
+                "file": "SQS, SNS, and Kinesis/SQS Long Polling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQS, SNS, and Kinesis/SQS.md",
+                "file": "SQS, SNS, and Kinesis/SQS Long Polling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQS, SNS, and Kinesis/SQS.md"
+                "file": "SQS, SNS, and Kinesis/SQS Long Polling.md"
               }
             }
           }
@@ -146,20 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5121b7b5d84f4d51",
+  "active": "7adcc6382461e782",
   "lastOpenFiles": [
-    "Images/Pasted image 20240502190531.png",
-    "Images/Pasted image 20240502190333.png",
-    "Images/Pasted image 20240502190215.png",
-    "Images/Pasted image 20240502190024.png",
-    "Images/Pasted image 20240502185831.png",
-    "Images/Pasted image 20240502185830.png",
-    "Images/Pasted image 20240502185629.png",
-    "Images/Pasted image 20240502185628.png",
-    "Images/Pasted image 20240502185312.png",
-    "Images/Pasted image 20240502184818.png",
-    "Images/Pasted image 20240502184803.png",
+    "SQS, SNS, and Kinesis/SQS Delay Queue.md",
+    "SQS, SNS, and Kinesis/SQS Long Polling.md",
+    "Images/Pasted image 20240503190158.png",
+    "Images/Pasted image 20240503185237.png",
+    "Images/Pasted image 20240503185157.png",
+    "Images/Pasted image 20240503185046.png",
+    "Pasted image 20240503190158.png",
+    "Pasted image 20240503185237.png",
+    "Pasted image 20240503185157.png",
+    "Pasted image 20240503185046.png",
+    "SQS, SNS, and Kinesis/SQS Dead Letter Queue.md",
+    "Images/Pasted image 20240503183816.png",
+    "Images/Pasted image 20240503183739.png",
+    "SQS, SNS, and Kinesis/SQS Visibility Timeout.md",
+    "S3/S3 Lifecycle Rules.md",
+    "S3/S3 Performance.md",
+    "S3/S3 Security.md",
+    "S3/S3 Select & Glacier Select.md",
+    "SQS, SNS, and Kinesis/SQS Access Policy.md",
     "SQS, SNS, and Kinesis/SQS.md",
+    "ECS, EKS, and Fargate (Docker)/ECS.md",
+    "ECS, EKS, and Fargate (Docker)/ECR.md",
+    "ECS, EKS, and Fargate (Docker)/Docker.md",
     "SQS, SNS, and Kinesis",
     "CloudFormation/Parameters.md",
     "S3/S3.md",
@@ -174,18 +185,7 @@
     "Elastic Beanstalk/Lifecycle Policies.md",
     "Elastic Beanstalk/Migration - Load Balancer.md",
     "Elastic Beanstalk/Under the Hood (CloudFormation).md",
-    "Route 53/Route 53.md",
-    "S3/S3 Events.md",
-    "S3/S3 Lifecycle Rules.md",
-    "S3/S3 Performance.md",
-    "S3/S3 Security.md",
-    "S3/S3 Select & Glacier Select.md",
-    "AWS Cloud History.md",
-    "CloudFormation/Resources.md",
-    "CloudFormation/YAML.md",
-    "Untitled.md",
     "CloudFormation",
-    "Elastic Beanstalk/RDS.md",
     "Elastic Beanstalk",
     "ECS, EKS, and Fargate (Docker)",
     "CloudFront",

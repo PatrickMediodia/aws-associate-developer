@@ -61,3 +61,20 @@
 - in flight encryption through the HTTPS API
 - at rest encryption using KMS keys
 - client side encryption but client has to perform the encryption and decryption themselves
+
+**Typo Types of Queues**
+![[Pasted image 20240503173948.png]]
+
+**Options**
+![[Pasted image 20240503174007.png]]
+
+**Encryption Type**
+![[Pasted image 20240503174130.png]]
+- encryption key to use
+	- SQS Key - a SQS specific that AWS manages for you
+	- KMS - a key that is managed by the AWS key management service
+
+**Access Policy**
+![[Pasted image 20240503174632.png]]
+
+
