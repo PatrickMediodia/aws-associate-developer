@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6c040146a42dc633",
+        "id": "e6b2322a5ef19476",
         "type": "tabs",
         "children": [
           {
-            "id": "77d790b6cb734608",
+            "id": "c5e0b32a293af4eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SQS, SNS, and Kinesis/Kinesis Consumers.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SQS, SNS, and Kinesis/Kinesis Consumers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SQS, SNS, and Kinesis/Kinesis Consumers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SQS, SNS, and Kinesis/Kinesis Consumers.md"
+              }
             }
           }
         ]
@@ -138,20 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77d790b6cb734608",
+  "active": "c5e0b32a293af4eb",
   "lastOpenFiles": [
-    "Images/Pasted image 20240504102323.png",
-    "Images/Pasted image 20240504101812.png",
-    "Images/Pasted image 20240504101629.png",
-    "Images/Pasted image 20240504100646.png",
-    "Images/Pasted image 20240504100626.png",
-    "Images/Pasted image 20240504100529.png",
-    "Images/Pasted image 20240504100459.png",
-    "Images/Pasted image 20240504094049.png",
-    "Images/Pasted image 20240504093827.png",
-    "SQS, SNS, and Kinesis/Pasted image 20240504102323.png",
-    "SQS, SNS, and Kinesis/Pasted image 20240504101812.png",
-    "SQS, SNS, and Kinesis/SHS.md",
+    "Images/Pasted image 20240504135740.png",
+    "Images/Pasted image 20240504131934.png",
+    "Images/Pasted image 20240504131622.png",
+    "Images/Pasted image 20240504131043.png",
+    "Images/Pasted image 20240504130505.png",
+    "Images/Pasted image 20240504130500.png",
+    "Images/Pasted image 20240504125738.png",
+    "Images/Pasted image 20240504125725.png",
+    "Images/Pasted image 20240504125452.png",
+    "Images/Pasted image 20240504124641.png",
+    "Pasted image 20240504135740.png",
+    "SQS, SNS, and Kinesis/Kinesis Producers.md",
+    "SQS, SNS, and Kinesis/Kinesis Consumers.md",
+    "SQS, SNS, and Kinesis/Kinesis Data Streams.md",
+    "SQS, SNS, and Kinesis/Kinesis.md",
+    "SQS, SNS, and Kinesis/SNS.md",
     "SQS, SNS, and Kinesis/SQS FIFO Queue.md",
     "SQS, SNS, and Kinesis/SQS Long Polling.md",
     "SQS, SNS, and Kinesis/SQS API Methods.md",
@@ -173,10 +185,6 @@
     "S3/S3.md",
     "CloudFormation/Rollbacks.md",
     "CloudFormation/Outputs and Exports.md",
-    "CloudFormation/Mappings.md",
-    "CloudFormation/Intrinsic Functions.md",
-    "CloudFormation/Conditions.md",
-    "CloudFormation/CloudFormation.md",
     "CloudFormation",
     "Elastic Beanstalk",
     "ECS, EKS, and Fargate (Docker)",
