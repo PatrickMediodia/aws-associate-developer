@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e6b2322a5ef19476",
+        "id": "a3c0e0bff0be4cdd",
         "type": "tabs",
         "children": [
           {
-            "id": "c5e0b32a293af4eb",
+            "id": "96e86602638e0020",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQS, SNS, and Kinesis/Kinesis Consumers.md",
+                "file": "Cognito/Cognito.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQS, SNS, and Kinesis/Kinesis Consumers.md",
+                "file": "Cognito/Cognito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQS, SNS, and Kinesis/Kinesis Consumers.md",
+                "file": "Cognito/Cognito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQS, SNS, and Kinesis/Kinesis Consumers.md"
+                "file": "Cognito/Cognito.md"
               }
             }
           }
@@ -146,8 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5e0b32a293af4eb",
+  "active": "96e86602638e0020",
   "lastOpenFiles": [
+    "SQS, SNS, and Kinesis/SQS.md",
+    "SQS, SNS, and Kinesis/SQS Visibility Timeout.md",
+    "SQS, SNS, and Kinesis/SQS Long Polling.md",
+    "SQS, SNS, and Kinesis/SQS FIFO Queue.md",
+    "SQS, SNS, and Kinesis/SQS Extended Client.md",
+    "SQS, SNS, and Kinesis/SQS Delay Queue.md",
+    "SQS, SNS, and Kinesis/SQS Dead Letter Queue.md",
+    "SQS, SNS, and Kinesis/SQS Access Policy.md",
+    "SQS, SNS, and Kinesis/SQS API Methods.md",
+    "SQS, SNS, and Kinesis/SNS.md",
+    "SQS, SNS, and Kinesis/Kinesis.md",
+    "SQS, SNS, and Kinesis/Kinesis Producers.md",
+    "SQS, SNS, and Kinesis/Kinesis Data Streams.md",
+    "SQS, SNS, and Kinesis/Kinesis Consumers.md",
+    "SQS, SNS, and Kinesis",
     "Images/Pasted image 20240504135740.png",
     "Images/Pasted image 20240504131934.png",
     "Images/Pasted image 20240504131622.png",
@@ -158,42 +173,26 @@
     "Images/Pasted image 20240504125725.png",
     "Images/Pasted image 20240504125452.png",
     "Images/Pasted image 20240504124641.png",
-    "Pasted image 20240504135740.png",
-    "SQS, SNS, and Kinesis/Kinesis Producers.md",
-    "SQS, SNS, and Kinesis/Kinesis Consumers.md",
-    "SQS, SNS, and Kinesis/Kinesis Data Streams.md",
-    "SQS, SNS, and Kinesis/Kinesis.md",
-    "SQS, SNS, and Kinesis/SNS.md",
-    "SQS, SNS, and Kinesis/SQS FIFO Queue.md",
-    "SQS, SNS, and Kinesis/SQS Long Polling.md",
-    "SQS, SNS, and Kinesis/SQS API Methods.md",
-    "SQS, SNS, and Kinesis/SQS Extended Client.md",
-    "SQS, SNS, and Kinesis/SQS Delay Queue.md",
-    "SQS, SNS, and Kinesis/SQS Dead Letter Queue.md",
-    "SQS, SNS, and Kinesis/SQS Visibility Timeout.md",
-    "S3/S3 Lifecycle Rules.md",
-    "S3/S3 Performance.md",
-    "S3/S3 Security.md",
-    "S3/S3 Select & Glacier Select.md",
-    "SQS, SNS, and Kinesis/SQS Access Policy.md",
-    "SQS, SNS, and Kinesis/SQS.md",
-    "ECS, EKS, and Fargate (Docker)/ECS.md",
-    "ECS, EKS, and Fargate (Docker)/ECR.md",
-    "ECS, EKS, and Fargate (Docker)/Docker.md",
-    "SQS, SNS, and Kinesis",
-    "CloudFormation/Parameters.md",
-    "S3/S3.md",
+    "Cognito/Cognito.md",
+    "Cognito",
     "CloudFormation/Rollbacks.md",
+    "CloudFormation/Intrinsic Functions.md",
+    "CloudFormation/Untitled",
+    "CloudFormation/Conditions.md",
     "CloudFormation/Outputs and Exports.md",
-    "CloudFormation",
+    "CloudFormation/Mappings.md",
+    "CloudFormation/Parameters.md",
+    "CloudFront/Parameters.md",
+    "S3/S3.md",
+    "S3/S3 Select & Glacier Select.md",
+    "S3/S3 Security.md",
+    "S3/S3 Performance.md",
+    "Images",
     "Elastic Beanstalk",
     "ECS, EKS, and Fargate (Docker)",
     "CloudFront",
-    "Images",
-    "S3",
+    "CloudFormation",
     "CLI,SDK,IAM Roles & Policies",
-    "Untitled.canvas",
-    "Route 53",
-    "IAM/Images"
+    "S3"
   ]
 }
