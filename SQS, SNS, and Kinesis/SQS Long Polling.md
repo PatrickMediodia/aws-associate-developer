@@ -1,0 +1,12 @@
+ ![[Pasted image 20240504093827.png]]
+ - when a consumer requests for messages from the queue, it can optionally wait for messages to arrive if there are none in the queue
+ - it fine to wait since there are no messages
+ - `Long Polling` 
+	 - decreases the number of API calls made to SQS thus increasing the efficiency 
+	 - and decreasing the latency of your application
+		 - if during the wait a message arrives, it will be processed immediately
+- set between 1 seconds and 20 seconds
+	- 20 seconds is preferrable
+- `long polling` is preferable to short polling
+	- if question is too many calls to SQS queue and is costing them money and cpu cycle and increasing the latency, then long polling might be the answer
+- can be enabled at the queue level or at the API level using `ReceiveMessageWaitTimeSeconds`
