@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a3c0e0bff0be4cdd",
+        "id": "5fa02dc87e1aaf83",
         "type": "tabs",
         "children": [
           {
-            "id": "96e86602638e0020",
+            "id": "c9cd2e024662094c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognito/Cognito.md",
+                "file": "SQS, SNS, and Kinesis/SQS API Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d228476b9aedb1e7",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognito/Cognito.md",
+                "file": "SQS, SNS, and Kinesis/SQS API Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cognito/Cognito.md",
+                "file": "SQS, SNS, and Kinesis/SQS API Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cognito/Cognito.md"
+                "file": "SQS, SNS, and Kinesis/SQS API Methods.md"
               }
             }
           }
@@ -146,34 +147,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96e86602638e0020",
+  "active": "c9cd2e024662094c",
   "lastOpenFiles": [
     "SQS, SNS, and Kinesis/SQS.md",
+    "Cognito/Cognito.md",
+    "SQS, SNS, and Kinesis/Kinesis Data Firehose.md",
+    "Pasted image 20240504210947.png",
+    "SQS, SNS, and Kinesis/Kinesis Data Streams - Producers.md",
+    "SQS, SNS, and Kinesis/Kinesis Data Streams - Client Library.md",
+    "SQS, SNS, and Kinesis/SNS.md",
+    "SQS, SNS, and Kinesis/Kinesis Data Steams - Consumers.md",
+    "SQS, SNS, and Kinesis/SQS Dead Letter Queue.md",
+    "SQS, SNS, and Kinesis/Kinesis Data Stream - Operations.md",
+    "Pasted image 20240504205019.png",
+    "Pasted image 20240504204808.png",
+    "Pasted image 20240504204344.png",
+    "Pasted image 20240504204338.png",
+    "Pasted image 20240504204318.png",
+    "Pasted image 20240504204207.png",
+    "Pasted image 20240504204131.png",
+    "Pasted image 20240504203029.png",
+    "SQS, SNS, and Kinesis/Kinesis Data Streams.md",
+    "Pasted image 20240504202411.png",
     "SQS, SNS, and Kinesis/SQS Visibility Timeout.md",
     "SQS, SNS, and Kinesis/SQS Long Polling.md",
     "SQS, SNS, and Kinesis/SQS FIFO Queue.md",
     "SQS, SNS, and Kinesis/SQS Extended Client.md",
     "SQS, SNS, and Kinesis/SQS Delay Queue.md",
-    "SQS, SNS, and Kinesis/SQS Dead Letter Queue.md",
     "SQS, SNS, and Kinesis/SQS Access Policy.md",
     "SQS, SNS, and Kinesis/SQS API Methods.md",
-    "SQS, SNS, and Kinesis/SNS.md",
     "SQS, SNS, and Kinesis/Kinesis.md",
-    "SQS, SNS, and Kinesis/Kinesis Producers.md",
-    "SQS, SNS, and Kinesis/Kinesis Data Streams.md",
-    "SQS, SNS, and Kinesis/Kinesis Consumers.md",
     "SQS, SNS, and Kinesis",
-    "Images/Pasted image 20240504135740.png",
-    "Images/Pasted image 20240504131934.png",
-    "Images/Pasted image 20240504131622.png",
-    "Images/Pasted image 20240504131043.png",
-    "Images/Pasted image 20240504130505.png",
-    "Images/Pasted image 20240504130500.png",
-    "Images/Pasted image 20240504125738.png",
-    "Images/Pasted image 20240504125725.png",
-    "Images/Pasted image 20240504125452.png",
-    "Images/Pasted image 20240504124641.png",
-    "Cognito/Cognito.md",
     "Cognito",
     "CloudFormation/Rollbacks.md",
     "CloudFormation/Intrinsic Functions.md",
@@ -183,10 +187,6 @@
     "CloudFormation/Mappings.md",
     "CloudFormation/Parameters.md",
     "CloudFront/Parameters.md",
-    "S3/S3.md",
-    "S3/S3 Select & Glacier Select.md",
-    "S3/S3 Security.md",
-    "S3/S3 Performance.md",
     "Images",
     "Elastic Beanstalk",
     "ECS, EKS, and Fargate (Docker)",

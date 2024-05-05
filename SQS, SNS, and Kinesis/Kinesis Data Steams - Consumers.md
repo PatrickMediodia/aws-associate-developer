@@ -55,7 +55,3 @@
 - configure batch size and batch window
 - if error occurs, lambda retires until succeeds or data expired
 - process up to 10 batches per shard simultaneously
-
-Hands-On
-![[Pasted image 20240504135740.png]]
-- sample price for Kinesis Data Streams
