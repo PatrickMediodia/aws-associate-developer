@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5fa02dc87e1aaf83",
+        "id": "b42fe15f65cb3628",
         "type": "tabs",
         "children": [
           {
-            "id": "c9cd2e024662094c",
+            "id": "ac916fe53751b0ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQS, SNS, and Kinesis/SQS API Methods.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d228476b9aedb1e7",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQS, SNS, and Kinesis/SQS API Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQS, SNS, and Kinesis/SQS API Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SQS, SNS, and Kinesis/SQS API Methods.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,53 +138,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9cd2e024662094c",
+  "active": "ac916fe53751b0ad",
   "lastOpenFiles": [
-    "Images/Pasted image 20240504202411.png",
-    "Images/Pasted image 20240504202132.png",
-    "Images/Pasted image 20240504210947.png",
-    "Images/Pasted image 20240504205019.png",
-    "Images/Pasted image 20240504204808.png",
-    "Images/Pasted image 20240504204344.png",
-    "Images/Pasted image 20240504204338.png",
-    "Images/Pasted image 20240504204318.png",
-    "Images/Pasted image 20240504204207.png",
-    "Images/Pasted image 20240504204131.png",
-    "Images/Pasted image 20240504203029.png",
-    "SQS, SNS, and Kinesis/SQS.md",
-    "Cognito/Cognito.md",
+    "Lamba Event Source Mapping.md",
+    "Lambda/Lambda S3 Event Notifications.md",
+    "Lambda/Lambda CloudWatch Events and EventBridge.md",
+    "Lambda/Lambda Asynchronous Invocations.md",
+    "Lambda/Lambda ALB.md",
+    "Lambda/Lamba Event Source Mapping.md",
+    "Lambda",
+    "New folder",
+    "Images/Pasted image 20240507182221.png",
+    "Images/Pasted image 20240507182129.png",
+    "Images/Pasted image 20240506172103.png",
+    "Images/Pasted image 20240506172001.png",
+    "Images/Pasted image 20240506171724.png",
+    "Images/Pasted image 20240507183825.png",
+    "Images/Pasted image 20240507183808.png",
+    "Images/Pasted image 20240507183551.png",
+    "Images/Pasted image 20240507183350.png",
+    "Images/Pasted image 20240507183147.png",
+    "Lambda S3 Event Notifications.md",
+    "Lambda ALB.md",
+    "Lambda CloudWatch Events and EventBridge.md",
+    "Untitled",
+    "Untitled 1.md",
+    "AWS Cloud History.md",
+    "Lambda Asynchronous Invocations.md",
+    "SQS, SNS, and Kinesis/Kinesis Data Steams - Consumers.md",
     "SQS, SNS, and Kinesis/Kinesis Data Firehose.md",
+    "SQS, SNS, and Kinesis/Kinesis.md",
+    "Monitoring and Audit/Monitoring Introduction.md",
+    "ECS, EKS, and Fargate (Docker)/ECS.md",
+    "ECS, EKS, and Fargate (Docker)/ECR.md",
+    "ECS, EKS, and Fargate (Docker)/Docker.md",
+    "Monitoring and Audit",
+    "ECS, EKS, and Fargate (Docker)/Copilot.md",
+    "SQS, SNS, and Kinesis/Kinesis Consumers.md",
     "SQS, SNS, and Kinesis/Kinesis Data Streams - Producers.md",
     "SQS, SNS, and Kinesis/Kinesis Data Streams - Client Library.md",
-    "SQS, SNS, and Kinesis/SNS.md",
-    "SQS, SNS, and Kinesis/Kinesis Data Steams - Consumers.md",
-    "SQS, SNS, and Kinesis/SQS Dead Letter Queue.md",
     "SQS, SNS, and Kinesis/Kinesis Data Stream - Operations.md",
-    "SQS, SNS, and Kinesis/Kinesis Data Streams.md",
-    "SQS, SNS, and Kinesis/SQS Visibility Timeout.md",
-    "SQS, SNS, and Kinesis/SQS Long Polling.md",
-    "SQS, SNS, and Kinesis/SQS FIFO Queue.md",
-    "SQS, SNS, and Kinesis/SQS Extended Client.md",
-    "SQS, SNS, and Kinesis/SQS Delay Queue.md",
-    "SQS, SNS, and Kinesis/SQS Access Policy.md",
-    "SQS, SNS, and Kinesis/SQS API Methods.md",
-    "SQS, SNS, and Kinesis/Kinesis.md",
-    "SQS, SNS, and Kinesis",
+    "Cognito/Cognito.md",
     "Cognito",
-    "CloudFormation/Rollbacks.md",
-    "CloudFormation/Intrinsic Functions.md",
-    "CloudFormation/Untitled",
-    "CloudFormation/Conditions.md",
-    "CloudFormation/Outputs and Exports.md",
-    "CloudFormation/Mappings.md",
-    "CloudFormation/Parameters.md",
-    "CloudFront/Parameters.md",
-    "Images",
+    "SQS, SNS, and Kinesis/Kinesis Producers.md",
+    "SQS, SNS, and Kinesis",
+    "CloudFormation",
     "Elastic Beanstalk",
     "ECS, EKS, and Fargate (Docker)",
     "CloudFront",
-    "CloudFormation",
-    "CLI,SDK,IAM Roles & Policies",
-    "S3"
+    "Untitled.canvas"
   ]
 }
