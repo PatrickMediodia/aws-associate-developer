@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6b72c65f72ff8678",
+        "id": "7e8e0abc72c93556",
         "type": "tabs",
         "children": [
           {
-            "id": "6a9a19dac16ca97e",
+            "id": "e8ed74bb086597d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CloudWatch, X-Ray, & CloudTrail/CloudTrail vs CloudWatch vs X-Ray.md",
+                "file": "AWS Monitoring and Audit/CloudWatch.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Burst",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d228476b9aedb1e7",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CloudWatch, X-Ray, & CloudTrail/CloudTrail vs CloudWatch vs X-Ray.md",
+                "file": "AWS Monitoring and Audit/CloudWatch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CloudWatch, X-Ray, & CloudTrail/CloudTrail vs CloudWatch vs X-Ray.md",
+                "file": "AWS Monitoring and Audit/CloudWatch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CloudWatch, X-Ray, & CloudTrail/CloudTrail vs CloudWatch vs X-Ray.md"
+                "file": "AWS Monitoring and Audit/CloudWatch.md"
               }
             }
           }
@@ -147,8 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a9a19dac16ca97e",
+  "active": "e8ed74bb086597d4",
   "lastOpenFiles": [
+    "Images/Pasted image 20240511104822.png",
+    "Images/Pasted image 20240511104705.png",
+    "Images/Pasted image 20240511104525.png",
+    "Lambda/Lambda Execution Role.md",
+    "Lambda/Lambda Event and Context Objects.md",
+    "Lambda/Lambda Environment Variables.md",
+    "Lambda/Lambda Destinations.md",
     "Images/Pasted image 20240511185526.png",
     "Images/Pasted image 20240511185243.png",
     "Images/Pasted image 20240511185024.png",
@@ -157,44 +163,36 @@
     "Images/Pasted image 20240511184708.png",
     "Images/Pasted image 20240511184437.png",
     "Images/Pasted image 20240511184337.png",
-    "Images/Pasted image 20240511184203.png",
-    "Images/Pasted image 20240511183953.png",
-    "Images/Pasted image 20240511183935.png",
+    "CloudWatch, X-Ray, & CloudTrail/X-Ray.md",
+    "CloudWatch, X-Ray, & CloudTrail/X-Ray with Beanstalk.md",
+    "CloudWatch, X-Ray, & CloudTrail/X-Ray Instrumentations and Concepts.md",
+    "CloudWatch, X-Ray, & CloudTrail/X-Ray APIs.md",
+    "CloudWatch, X-Ray, & CloudTrail/X-Ray & ECS.md",
+    "CloudWatch, X-Ray, & CloudTrail/Monitoring.md",
+    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Synthetics Canary.md",
+    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Metrics.md",
+    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Logs.md",
+    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Logs Metric Filter.md",
+    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Logs EC2.md",
+    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Alarms.md",
+    "CloudWatch, X-Ray, & CloudTrail/CloudTrail.md",
     "CloudWatch, X-Ray, & CloudTrail/CloudTrail vs CloudWatch vs X-Ray.md",
     "CloudWatch, X-Ray, & CloudTrail/CloudTrail & EventBridge Integration.md",
-    "CloudWatch, X-Ray, & CloudTrail/CloudTrail.md",
-    "CloudWatch, X-Ray, & CloudTrail/AWS Distro for OpenTelemetry.md",
-    "CloudWatch, X-Ray, & CloudTrail/X-Ray & ECS.md",
-    "CloudWatch, X-Ray, & CloudTrail/X-Ray with Beanstalk.md",
-    "CloudWatch, X-Ray, & CloudTrail/X-Ray APIs.md",
-    "CloudWatch, X-Ray, & CloudTrail/X-Ray.md",
-    "CloudWatch, X-Ray, & CloudTrail/X-Ray Instrumentations and Concepts.md",
-    "Lambda/Synchronous Invocation.md",
-    "Lambda/Serveless.md",
-    "Lambda/Lambda.md",
     "CloudWatch, X-Ray, & CloudTrail/Amazon EventBridge (CloudWatch Events).md",
-    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Synthetics Canary.md",
-    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Alarms.md",
-    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Logs Metric Filter.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Logs EC2.md",
-    "Untitled",
-    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Logs.md",
-    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Metrics.md",
-    "CloudWatch, X-Ray, & CloudTrail/Monitoring.md",
+    "CloudWatch, X-Ray, & CloudTrail/AWS Distro for OpenTelemetry.md",
     "CloudWatch, X-Ray, & CloudTrail",
-    "Lambda/Lambda Environment Variables.md",
-    "Lambda/Lambda Event and Context Objects.md",
-    "ECS, EKS, and Fargate (Docker)/ECS.md",
-    "Lambda",
-    "New folder",
+    "Lambda/Serveless.md",
+    "AWS Monitoring and Audit/CloudWatch.md",
+    "AWS Monitoring and Audit",
+    "Lambda/Synchronous Invocation.md",
+    "Monitoring and Audit/Monitoring Introduction.md",
     "Monitoring and Audit",
-    "Cognito",
+    "Lambda",
     "SQS, SNS, and Kinesis",
-    "CloudFormation",
+    "Cognito",
+    "CloudFormation/Untitled",
+    "Images",
     "Elastic Beanstalk",
-    "ECS, EKS, and Fargate (Docker)",
-    "Untitled.canvas"
+    "ECS, EKS, and Fargate (Docker)"
   ]
 }
