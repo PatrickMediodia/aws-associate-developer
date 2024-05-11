@@ -55,3 +55,13 @@ You can see from the logs that the lambda function has successfully polled from 
 Disable the SQS queue if you aren't using it so that the lambda function does not continue to poll the SQS queue
 ![[Pasted image 20240509190702.png]]
 
+**Streams**
+![[Pasted image 20240509191131.png]]
+- enhanced fan out option is for the consumer
+- Batch Size: Max number of records to read from your stream at once
+- Batch Window: max amount of time to wait before you process your batch
+
+![[Pasted image 20240509191312.png]]
+- on failure destination: failed processing of stream data could be sent to a DLQ for processing
+
+![[Pasted image 20240509191402.png]]
