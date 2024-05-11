@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7347587ee5fea96d",
+        "id": "ac36caf7a078ec27",
         "type": "tabs",
         "children": [
           {
-            "id": "1bc35f21f428db58",
+            "id": "a3de72406a96725f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CloudWatch, X-Ray, & CloudTrail/X-Ray.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CloudWatch, X-Ray, & CloudTrail/X-Ray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CloudWatch, X-Ray, & CloudTrail/X-Ray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CloudWatch, X-Ray, & CloudTrail/X-Ray.md"
+              }
             }
           }
         ]
@@ -138,54 +146,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5121b7b5d84f4d51",
+  "active": "a3de72406a96725f",
   "lastOpenFiles": [
-    "Images/Pasted image 20240509201833.png",
-    "Images/Pasted image 20240509201715.png",
-    "Images/Pasted image 20240509201634.png",
-    "Images/Pasted image 20240509201602.png",
-    "Images/Pasted image 20240509201338.png",
+    "Images/Pasted image 20240511131101.png",
+    "Images/Pasted image 20240511130916.png",
+    "Images/Pasted image 20240511130250.png",
+    "Images/Pasted image 20240511124408.png",
+    "Images/Pasted image 20240511124353.png",
+    "Images/Pasted image 20240511124340.png",
+    "Images/Pasted image 20240511124300.png",
+    "Images/Pasted image 20240511124204.png",
+    "Images/Pasted image 20240511131118.png",
+    "Images/Pasted image 20240511131117.png",
+    "Images/Pasted image 20240511152234.png",
+    "CloudWatch, X-Ray, & CloudTrail/X-Ray.md",
+    "CloudWatch, X-Ray, & CloudTrail/Amazon EventBridge (CloudWatch Events).md",
+    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Synthetics Canary.md",
+    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Alarms.md",
+    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Logs Metric Filter.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Logs EC2.md",
+    "Untitled",
+    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Logs.md",
+    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Metrics.md",
+    "CloudWatch, X-Ray, & CloudTrail/Monitoring.md",
+    "CloudWatch, X-Ray, & CloudTrail",
     "Lambda/Lambda Environment Variables.md",
-    "Pasted image 20240509201833.png",
-    "Pasted image 20240509201715.png",
-    "Pasted image 20240509201634.png",
-    "Pasted image 20240509201602.png",
     "Lambda/Lambda Event and Context Objects.md",
     "ECS, EKS, and Fargate (Docker)/ECS.md",
     "ECS, EKS, and Fargate (Docker)/ECR.md",
     "ECS, EKS, and Fargate (Docker)/Docker.md",
-    "Pasted image 20240509201338.png",
     "Lambda/Lambda Execution Role.md",
-    "Images/Pasted image 20240509201102.png",
     "Lambda/Lambda Destinations.md",
     "Lambda/Lamba Event Source Mapping.md",
     "Lambda/Lambda S3 Event Notifications.md",
     "Lambda/Lambda CloudWatch Events and EventBridge.md",
     "Lambda/Lambda Asynchronous Invocations.md",
     "Lambda/Lambda ALB.md",
-    "Untitled",
     "Lamba Event Source Mapping.md",
     "Lambda",
     "New folder",
     "Lambda S3 Event Notifications.md",
-    "Lambda ALB.md",
-    "Lambda CloudWatch Events and EventBridge.md",
-    "Untitled 1.md",
-    "AWS Cloud History.md",
-    "Lambda Asynchronous Invocations.md",
-    "SQS, SNS, and Kinesis/Kinesis Data Steams - Consumers.md",
-    "SQS, SNS, and Kinesis/Kinesis Data Firehose.md",
-    "SQS, SNS, and Kinesis/Kinesis.md",
-    "Monitoring and Audit/Monitoring Introduction.md",
     "Monitoring and Audit",
-    "ECS, EKS, and Fargate (Docker)/Copilot.md",
-    "SQS, SNS, and Kinesis/Kinesis Consumers.md",
     "Cognito",
     "SQS, SNS, and Kinesis",
     "CloudFormation",
     "Elastic Beanstalk",
     "ECS, EKS, and Fargate (Docker)",
-    "CloudFront",
     "Untitled.canvas"
   ]
 }
