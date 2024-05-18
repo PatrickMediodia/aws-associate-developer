@@ -140,6 +140,11 @@
   },
   "active": "5121b7b5d84f4d51",
   "lastOpenFiles": [
+    "Images/Pasted image 20240511104822.png",
+    "Images/Pasted image 20240511104705.png",
+    "Images/Pasted image 20240511104525.png",
+    "AWS Monitoring and Audit/CloudWatch.md",
+    "AWS Monitoring and Audit",
     "DynamoDB",
     "Lambda/Lambda Best Practices.md",
     "Pasted image 20240515190456.png",
@@ -154,8 +159,6 @@
     "Pasted image 20240515184521.png",
     "Pasted image 20240515184327.png",
     "Lambda/Lambda & CodeDeploy.md",
-    "Pasted image 20240515184028.png",
-    "Pasted image 20240515183935.png",
     "Lambda/Lambda Alias.md",
     "S3/S3.md",
     "S3/S3 Events.md",
@@ -175,7 +178,6 @@
     "CloudWatch, X-Ray, & CloudTrail/X-Ray.md",
     "CloudWatch, X-Ray, & CloudTrail/X-Ray Instrumentations and Concepts.md",
     "Lambda/Synchronous Invocation.md",
-    "Lambda/Serveless.md",
     "CloudWatch, X-Ray, & CloudTrail",
     "Lambda",
     "New folder",
@@ -184,7 +186,6 @@
     "SQS, SNS, and Kinesis",
     "CloudFormation",
     "Elastic Beanstalk",
-    "ECS, EKS, and Fargate (Docker)",
     "Untitled.canvas"
   ]
 }
