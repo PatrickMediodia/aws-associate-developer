@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6b72c65f72ff8678",
+        "id": "becb971ae0d98892",
         "type": "tabs",
         "children": [
           {
-            "id": "6a9a19dac16ca97e",
+            "id": "408550acdde83d9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CloudWatch, X-Ray, & CloudTrail/CloudTrail vs CloudWatch vs X-Ray.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d228476b9aedb1e7",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CloudWatch, X-Ray, & CloudTrail/CloudTrail vs CloudWatch vs X-Ray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CloudWatch, X-Ray, & CloudTrail/CloudTrail vs CloudWatch vs X-Ray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CloudWatch, X-Ray, & CloudTrail/CloudTrail vs CloudWatch vs X-Ray.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,19 +138,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a9a19dac16ca97e",
+  "active": "5121b7b5d84f4d51",
   "lastOpenFiles": [
-    "Images/Pasted image 20240511185526.png",
-    "Images/Pasted image 20240511185243.png",
-    "Images/Pasted image 20240511185024.png",
-    "Images/Pasted image 20240511184825.png",
-    "Images/Pasted image 20240511184757.png",
-    "Images/Pasted image 20240511184708.png",
-    "Images/Pasted image 20240511184437.png",
-    "Images/Pasted image 20240511184337.png",
-    "Images/Pasted image 20240511184203.png",
-    "Images/Pasted image 20240511183953.png",
-    "Images/Pasted image 20240511183935.png",
+    "DynamoDB",
+    "Lambda/Lambda Best Practices.md",
+    "Pasted image 20240515190456.png",
+    "Lambda/Lambda Limits.md",
+    "Pasted image 20240515190308.png",
+    "Lambda/Lambda & CodeGuru.md",
+    "Pasted image 20240515185955.png",
+    "Lambda/Lambda Function URL.md",
+    "Pasted image 20240515185801.png",
+    "Pasted image 20240515184836.png",
+    "Pasted image 20240515184638.png",
+    "Pasted image 20240515184521.png",
+    "Pasted image 20240515184327.png",
+    "Lambda/Lambda & CodeDeploy.md",
+    "Pasted image 20240515184028.png",
+    "Pasted image 20240515183935.png",
+    "Lambda/Lambda Alias.md",
+    "S3/S3.md",
+    "S3/S3 Events.md",
+    "S3/S3 Lifecycle Rules.md",
+    "S3/S3 Performance.md",
+    "S3/S3 Security.md",
+    "S3/S3 Select & Glacier Select.md",
+    "Lambda/Lambda & CloudFormation.md",
+    "Lambda/Lambda External Dependencies.md",
     "CloudWatch, X-Ray, & CloudTrail/CloudTrail vs CloudWatch vs X-Ray.md",
     "CloudWatch, X-Ray, & CloudTrail/CloudTrail & EventBridge Integration.md",
     "CloudWatch, X-Ray, & CloudTrail/CloudTrail.md",
@@ -171,22 +176,7 @@
     "CloudWatch, X-Ray, & CloudTrail/X-Ray Instrumentations and Concepts.md",
     "Lambda/Synchronous Invocation.md",
     "Lambda/Serveless.md",
-    "Lambda/Lambda.md",
-    "CloudWatch, X-Ray, & CloudTrail/Amazon EventBridge (CloudWatch Events).md",
-    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Synthetics Canary.md",
-    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Alarms.md",
-    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Logs Metric Filter.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Logs EC2.md",
-    "Untitled",
-    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Logs.md",
-    "CloudWatch, X-Ray, & CloudTrail/CloudWatch Metrics.md",
-    "CloudWatch, X-Ray, & CloudTrail/Monitoring.md",
     "CloudWatch, X-Ray, & CloudTrail",
-    "Lambda/Lambda Environment Variables.md",
-    "Lambda/Lambda Event and Context Objects.md",
-    "ECS, EKS, and Fargate (Docker)/ECS.md",
     "Lambda",
     "New folder",
     "Monitoring and Audit",
