@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "becb971ae0d98892",
+        "id": "6a8de7d9696fa22b",
         "type": "tabs",
         "children": [
           {
-            "id": "408550acdde83d9f",
+            "id": "8a2dd10f6d2c2384",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CloudFormation/Intrinsic Functions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CloudFormation/Intrinsic Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CloudFormation/Intrinsic Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CloudFormation/Intrinsic Functions.md"
+              }
             }
           }
         ]
@@ -138,54 +146,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5121b7b5d84f4d51",
+  "active": "8a2dd10f6d2c2384",
   "lastOpenFiles": [
-    "Images/Pasted image 20240511104822.png",
-    "Images/Pasted image 20240511104705.png",
-    "Images/Pasted image 20240511104525.png",
-    "AWS Monitoring and Audit/CloudWatch.md",
-    "AWS Monitoring and Audit",
-    "DynamoDB",
-    "Lambda/Lambda Best Practices.md",
-    "Pasted image 20240515190456.png",
+    "Lambda/Lambda in VPC.md",
+    "Lambda/Lambda and Monitoring.md",
+    "Lambda/Lambda & CloudFront (Edge Functions).md",
+    "Images/Pasted image 20240512153955.png",
+    "Images/Pasted image 20240512153925.png",
+    "Images/Pasted image 20240512153617.png",
+    "Images/Pasted image 20240512153338.png",
+    "Images/Pasted image 20240512153042.png",
+    "Images/Pasted image 20240512152932.png",
+    "Images/Pasted image 20240512152628.png",
+    "Images/Pasted image 20240512151913.png",
+    "Images/Pasted image 20240512151802.png",
+    "Images/Pasted image 20240512151338.png",
     "Lambda/Lambda Limits.md",
-    "Pasted image 20240515190308.png",
-    "Lambda/Lambda & CodeGuru.md",
-    "Pasted image 20240515185955.png",
     "Lambda/Lambda Function URL.md",
-    "Pasted image 20240515185801.png",
-    "Pasted image 20240515184836.png",
-    "Pasted image 20240515184638.png",
-    "Pasted image 20240515184521.png",
-    "Pasted image 20240515184327.png",
-    "Lambda/Lambda & CodeDeploy.md",
-    "Lambda/Lambda Alias.md",
-    "S3/S3.md",
-    "S3/S3 Events.md",
-    "S3/S3 Lifecycle Rules.md",
-    "S3/S3 Performance.md",
-    "S3/S3 Security.md",
-    "S3/S3 Select & Glacier Select.md",
-    "Lambda/Lambda & CloudFormation.md",
     "Lambda/Lambda External Dependencies.md",
-    "CloudWatch, X-Ray, & CloudTrail/CloudTrail vs CloudWatch vs X-Ray.md",
-    "CloudWatch, X-Ray, & CloudTrail/CloudTrail & EventBridge Integration.md",
-    "CloudWatch, X-Ray, & CloudTrail/CloudTrail.md",
-    "CloudWatch, X-Ray, & CloudTrail/AWS Distro for OpenTelemetry.md",
-    "CloudWatch, X-Ray, & CloudTrail/X-Ray & ECS.md",
-    "CloudWatch, X-Ray, & CloudTrail/X-Ray with Beanstalk.md",
-    "CloudWatch, X-Ray, & CloudTrail/X-Ray APIs.md",
+    "Lambda/Lambda Best Practices.md",
+    "Lambda/Lambda Alias.md",
+    "Lambda/Lambda & CodeGuru.md",
+    "Lambda/Lambda & CodeDeploy.md",
+    "Lambda/Lambda & CloudFormation.md",
+    "CloudFormation/YAML.md",
+    "CloudFormation/Rollbacks.md",
+    "CloudFormation/Resources.md",
+    "CloudFormation/Parameters.md",
+    "CloudFront/CloudFront.md",
+    "AWS Monitoring and Audit/CloudWatch.md",
+    "Lambda/Lambda Execution Role.md",
+    "Lambda/Lambda Event and Context Objects.md",
+    "Lambda/Lambda Environment Variables.md",
+    "Lambda/Lambda Destinations.md",
     "CloudWatch, X-Ray, & CloudTrail/X-Ray.md",
+    "CloudWatch, X-Ray, & CloudTrail/X-Ray with Beanstalk.md",
     "CloudWatch, X-Ray, & CloudTrail/X-Ray Instrumentations and Concepts.md",
-    "Lambda/Synchronous Invocation.md",
+    "CloudWatch, X-Ray, & CloudTrail/X-Ray APIs.md",
     "CloudWatch, X-Ray, & CloudTrail",
-    "Lambda",
-    "New folder",
+    "AWS Monitoring and Audit",
     "Monitoring and Audit",
-    "Cognito",
+    "Lambda",
     "SQS, SNS, and Kinesis",
-    "CloudFormation",
+    "Cognito",
+    "CloudFormation/Untitled",
+    "Images",
     "Elastic Beanstalk",
-    "Untitled.canvas"
+    "ECS, EKS, and Fargate (Docker)"
   ]
 }

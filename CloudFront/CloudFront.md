@@ -26,4 +26,5 @@
 	- you need to protect it using OAC (Origin Access Control) and change the bucket policies so that only CloudFront is able to access this bucket
 	![[Pasted image 20240427132710.png]]
 
-Caching
+**IMPORTANT**
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-trusted-signers.html
